@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Amazing Information to Follow
+
+Below is a _list_ of my **skills**
+
+## Skills
+- Guitar
+- Dancing
+- Being Awesome
+
+## Attractiveness
+- Awesomeness
+- Forgetting how to do numbered lists
+- I have hair
